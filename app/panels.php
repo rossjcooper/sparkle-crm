@@ -8,8 +8,5 @@ $panel->add([
     'title'  => 'People',
     'slug'   => 'sparklecrm-people',
      'icon'   => 'dashicons-groups',
-    'uses'   => function()
-    {
-        return 'Hello World';
-    }
+    'uses'   => __NAMESPACE__.'\Controllers\PersonController@index'
 ]);
