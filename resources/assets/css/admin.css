@@ -1,0 +1,15 @@
+/* 
+    Created on : 08-Jul-2016, 21:46:02
+    Author     : Ross
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/wordpress\/wp-content\/plugins\/sparkle-crm\/resources\/assets\/sass\/admin\.scss}line{font-family:\000039}}
+.sparkle-table {
+  width: 100%;
+  background: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/wordpress\/wp-content\/plugins\/sparkle-crm\/resources\/assets\/sass\/admin\.scss}line{font-family:\0000312}}
+  .sparkle-table td, .sparkle-table th {
+    padding: 6px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/wordpress\/wp-content\/plugins\/sparkle-crm\/resources\/assets\/sass\/admin\.scss}line{font-family:\0000315}}
+  .sparkle-table thead {
+    background-color: #0073aa;
+    color: white; }

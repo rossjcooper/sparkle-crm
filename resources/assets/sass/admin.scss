@@ -1,0 +1,20 @@
+/* 
+    Created on : 08-Jul-2016, 21:46:02
+    Author     : Ross
+*/
+
+$white: #fff;
+$primary: #0073aa;
+
+.sparkle-table{
+    width: 100%;
+    background: $white;
+    td, th{
+        padding: 6px;
+    }
+    thead{
+        background-color: $primary;
+        color: $white;
+    }
+}
+
